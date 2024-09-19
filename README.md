@@ -1,7 +1,7 @@
 # Computer-Graphics
  Computer Graphics Projects 2023-24
 
-<img width="150" align="left" src="![Flat shading](https://github.com/user-attachments/assets/4d72bc40-4f17-4e93-96b1-a397c5641b84)">
+<img width="150" align="left" src="![Flat shading](https://github.com/user-attachments/assets/4d72bc40-4f17-4e93-96b1-a397c5641b84)"/>
 
 
  ## Project 1 - Triangle Filling
