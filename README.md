@@ -1,7 +1,6 @@
 # Computer-Graphics
  Computer Graphics Projects 2023-24
 
-![](Project-1/results/Flat-shading.png)
 
 
  ## Project 1 - Triangle Filling
