@@ -9,3 +9,5 @@
  * `demo_f.py`: This script colors the image using the Flat Shading algorithm.
  
  * `demo_g.py`: This script colors the image using the Gouraud Shading algorithm.
+
+## Project 2
