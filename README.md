@@ -1,5 +1,5 @@
 # Computer-Graphics
- Computer Graphics ECE AUTH (8o Semester)
+ Computer Graphics Projects 2023-24
 
  ## Project 1
  In this project, I perform the coloring of an image using 2 different triangle filling algorithms:
