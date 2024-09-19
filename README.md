@@ -1,5 +1,3 @@
-![Flat shading](https://github.com/user-attachments/assets/5d53330e-d68c-457b-aa92-a46fcf771877)
-
 # Computer-Graphics
  Computer Graphics Projects 2023-24
 
