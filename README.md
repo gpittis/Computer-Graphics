@@ -10,4 +10,5 @@
  
  * `demo_g.py`: This script colors the image using the Gouraud Shading algorithm.
 
-## Project 2
+## Project 2 - Transformations and Projections
+
