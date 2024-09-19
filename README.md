@@ -6,7 +6,8 @@
  1. Flat Shading
  2. Gouraud Shading
     
- * `demo_f.py`: This script colors the image using the Flat Shading algorithm.
+ * `demo_f.py`: This script colors the image using the Flat Shading algorithm.                 ![Flat shading](https://github.com/user-attachments/assets/28d584cd-1270-4b8c-a943-522d33ed6687)
+
  
  * `demo_g.py`: This script colors the image using the Gouraud Shading algorithm.
 
