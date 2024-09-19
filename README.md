@@ -1,6 +1,4 @@
 <img width="200" align="center" src="https://github.com/user-attachments/assets/0786e94c-2005-4446-ae5d-7eaf01e45680" /> 
-
-
 # Computer-Graphics 
  Computer Graphics Projects 2023-24 
  ## Project 1 - Triangle Filling  
