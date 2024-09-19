@@ -2,7 +2,7 @@
  Computer Graphics Projects 2023-24 
  
  <img width="200" align="center" src="https://github.com/user-attachments/assets/0786e94c-2005-4446-ae5d-7eaf01e45680" /> 
- <img width="500" align="center" src="https://github.com/user-attachments/assets/6a7dbad6-c8b5-4d7d-bc61-3b845d2efd06" />
+ <img width="300" align="center" src="https://github.com/user-attachments/assets/6a7dbad6-c8b5-4d7d-bc61-3b845d2efd06" />
 
  ## Project 1 - Triangle Filling  
  In this project, I perform the coloring of an image using 2 different triangle filling algorithms:
