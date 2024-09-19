@@ -1,12 +1,12 @@
 # Computer-Graphics
  Computer Graphics Projects 2023-24
 
- ## Project 1 - Triangle Filling
+ ## Project 1 - Triangle Filling  <img width="150" align="right" src="https://github.com/user-attachments/assets/4d72bc40-4f17-4e93-96b1-a397c5641b84" />
  In this project, I perform the coloring of an image using 2 different triangle filling algorithms:
  1. Flat Shading
  2. Gouraud Shading
     
- * `demo_f.py`: This script colors the image using the Flat Shading algorithm. <img width="150" align="right" src="https://github.com/user-attachments/assets/4d72bc40-4f17-4e93-96b1-a397c5641b84" />
+ * `demo_f.py`: This script colors the image using the Flat Shading algorithm. 
  * `demo_g.py`: This script colors the image using the Gouraud Shading algorithm.
 
 ## Project 2 - Transformations and Projections
