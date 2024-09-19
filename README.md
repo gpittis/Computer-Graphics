@@ -1,7 +1,7 @@
 # Computer-Graphics
  Computer Graphics Projects 2023-24
 
- ## Project 1
+ ## Project 1 - Triangle Filling
  In this project, I perform the coloring of an image using 2 different triangle filling algorithms:
  1. Flat Shading
  2. Gouraud Shading
